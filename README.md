@@ -2,4 +2,4 @@
 
 Code for Exercise 3
 
-GitHub link: https://github.com/GenesisED/WebDevEx3
+GitHub Link: https://github.com/GenesisED/WebDevEx3
